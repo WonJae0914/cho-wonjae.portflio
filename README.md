@@ -12,12 +12,12 @@
 
 ## :pushpin: Projects
 ### 1. [성인등급 영화 OTT](https://github.com/WonJae0914/secondProject)
->성인등급 영화 OTT 플랫폼 서비스 (팀 프로젝트 : 4명)  
->개발 기간: 2023.2.1 ~ 2023.3.7  
+> 성인등급 영화 OTT 플랫폼 서비스 (팀 프로젝트 : 4명)  
+> 개발 기간: 2023.2.1 ~ 2023.3.7  
 >  
->기술 스택:  
->Nodejs / npm / Express / JavaScript / 
->MongoDB / HTML / CSS / 
+> 기술 스택:  
+> Nodejs / npm / Express / JavaScript / 
+> MongoDB / HTML / CSS / 
 >  
 >[프로젝트 상세 설명](https://github.com/WonJae0914/secondProject) 참고
 
