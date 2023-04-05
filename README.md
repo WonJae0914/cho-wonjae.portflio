@@ -3,11 +3,6 @@
 
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
-
-</br>
-
 ## :pushpin: Contact
 - 이메일: hadnjswp@gmail.com
 - 블로그: https://velog.io/@hardworking
