@@ -22,4 +22,14 @@
 >[프로젝트 상세 설명](https://github.com/WonJae0914/secondProject) 참고
 
 ---
+## :pushpin: Projects
+### 2. [여행 패키지 판매 플랫폼] 구현중
+> 성인등급 영화 OTT 플랫폼 서비스 (팀 프로젝트 : 7명)  
+> 개발 기간: 2023.3.27 ~ 2023.5.2 
+>  
+> 기술 스택:  
+> Sprig / Java / JSP /
+> MySQL / HTML / CSS / JavaScript / Jquery
+>  
+>[프로젝트 상세 설명] 구현중 
 
