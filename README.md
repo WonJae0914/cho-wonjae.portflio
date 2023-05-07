@@ -16,7 +16,7 @@
 > 개발 기간: 2023.04.03 ~ 2023.05.08 
 >  
 > 기술 스택:  
-> Sprig / Java / JSP / Jquery
+> Sprig / Java / JSP / Jquery /
 > MySQL / HTML / CSS / JavaScript 
 >  
 >[프로젝트 상세 설명] (https://github.com/WonJae0914/goott-3rd-pj) 참고 
@@ -29,7 +29,7 @@
 > 개발 기간: 2023.02.01 ~ 2023.03.07  
 >  
 > 기술 스택:  
-> Nodejs / npm / Express / JavaScript / Jquery
+> Nodejs / npm / Express / JavaScript / Jquery /
 > MongoDB / HTML / CSS / 
 >  
 >[프로젝트 상세 설명](https://github.com/WonJae0914/secondProject) 참고
