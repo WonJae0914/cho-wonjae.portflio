@@ -11,7 +11,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [Sun_tour] (https://github.com/WonJae0914/goott-3rd-pj)
+### 1. [Sun_Tour](https://github.com/WonJae0914/goott-3rd-pj)
 >  여행 패키지 판매 플랫폼 (팀 프로젝트 : 6명)  
 > 개발 기간: 2023.04.03 ~ 2023.05.08 
 >  
